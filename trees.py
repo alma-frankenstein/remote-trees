@@ -1,4 +1,4 @@
 
-best_trees = ["dogwood", "apple", "cedar", "Christmas", "spruce"]
+best_trees = ["dogwood", "apple", "cedar", "Christmas", "spruce", "cherry"]
 
 
